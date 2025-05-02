@@ -12,7 +12,7 @@ Sem papelzinho, sem confusão. Apenas digite os nomes e clique em sortear!
 
 ## 📸 Preview
 
-<img src="assets/imagem-presente.png" alt="Imagem do projeto Amigo Secreto" width="400">
+![Demonstração da lista Amigo Secreto](./amigo-secreto/assets/AmigoSecreto.png/)
 
 ## 🛠️ Tecnologias usadas
 
@@ -63,6 +63,8 @@ Carlos --> Ana
 
 ## 👨‍💻 Autor
 
-Feito por [Gustavo Marques](https://github.com/GustavoMarques22) 
+Feito com muito empenho por [Gustavo Marques](https://github.com/GustavoMarques22) 💙
+
+
 
 ---
